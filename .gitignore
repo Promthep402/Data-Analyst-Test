@@ -13,6 +13,7 @@ Thumbs.db
 .mypy_cache/
 .ruff_cache/
 .vscode/settings.json
+~$*
 
 # Submission-only presentation files
 FruitBlend24_Data_Analyst_Presentation.pptx

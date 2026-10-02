@@ -205,8 +205,12 @@ def main():
         kitchen_rows.append({"kitchen": kitchen, "units": sum(row["units_sold"] for row in rows), "net": net, "profit": profit, "margin": profit / max(net, 1)})
     forecast = [{"month": f"Forecast +{offset}", "units": sum(row["units"] for row in monthly[-3:]) / 3, "revenue": sum(row["revenue"] for row in monthly[-3:]) / 3, "waste": sum(row["units_wasted"] or 0 for row in waste) / 12, "profit": total_profit / 12} for offset in (1, 2, 3)]
     totals = {"totalNet": total_net, "totalProfit": total_profit, "totalUnits": total_units, "wasteCost": waste_cost}
-    SUMMARY_FILE.write_text(json.dumps({"quality": quality, "skuRows": sku_rows, "monthly": monthly, "rateRows": rate_rows, "kitchenRows": kitchen_rows, "forecast": forecast, "assumptions": totals}, indent=2, ensure_ascii=False), encoding="utf-8")
-    REPORT_FILE.write_text(build_report(quality, sku_rows, monthly, rate_rows, kitchen_rows, forecast, totals), encoding="utf-8")
+    if not SUMMARY_FILE.exists():
+        SUMMARY_FILE.write_text(json.dumps({"quality": quality, "skuRows": sku_rows, "monthly": monthly, "rateRows": rate_rows, "kitchenRows": kitchen_rows, "forecast": forecast, "assumptions": totals}, indent=2, ensure_ascii=False), encoding="utf-8")
+    # The HTML report is a generated, presentation-ready artifact. Preserve
+    # the restored dashboard when rerunning the Python data refresh.
+    if not REPORT_FILE.exists():
+        REPORT_FILE.write_text(build_report(quality, sku_rows, monthly, rate_rows, kitchen_rows, forecast, totals), encoding="utf-8")
     print(json.dumps({"quality": quality, **totals}, indent=2))
 
 

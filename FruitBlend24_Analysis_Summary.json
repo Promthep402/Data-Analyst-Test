@@ -14,8 +14,8 @@
       "sold": 245692.0,
       "gross": 10843934.399999982,
       "avgPrice": 44.13629422203402,
-      "contrib": 3283884.748999978,
-      "margin": 0.4167323379742482,
+      "contrib": 3283611.3489999906,
+      "margin": 0.4166976429012157,
       "share": 0.3963208868069401
     },
     {
@@ -23,8 +23,8 @@
       "sold": 162689.0,
       "gross": 7841165.710000096,
       "avgPrice": 48.197270313297736,
-      "contrib": 2381330.9672000124,
-      "margin": 0.4178785495968065,
+      "contrib": 2381785.477200006,
+      "margin": 0.4179583075062238,
       "share": 0.26243039559177456
     },
     {
@@ -32,8 +32,8 @@
       "sold": 101815.0,
       "gross": 4898247.7600000575,
       "avgPrice": 48.10929391543542,
-      "contrib": 1437261.0153999974,
-      "margin": 0.4041837272655546,
+      "contrib": 1436780.6153999981,
+      "margin": 0.404048630118622,
       "share": 0.1642357548892459
     },
     {
@@ -41,8 +41,8 @@
       "sold": 81616.0,
       "gross": 5208893.300000028,
       "avgPrice": 63.82196260537184,
-      "contrib": 1137940.1280000112,
-      "margin": 0.3009578351101276,
+      "contrib": 1135009.4380000106,
+      "margin": 0.300182737988516,
       "share": 0.13165314905505765
     },
     {
@@ -50,107 +50,115 @@
       "sold": 28120.0,
       "gross": 2445619.4299999834,
       "avgPrice": 86.97081899004209,
-      "contrib": 276219.5648000008,
-      "margin": 0.15517624725712537,
+      "contrib": 279346.78480000223,
+      "margin": 0.15693307525118513,
       "share": 0.04535981365698173
     }
   ],
   "monthly": [
     {
       "month": "2025-09",
-      "units": 39842,
-      "revenue": 1397710.8262,
-      "grossProfit": -129345.11379999993,
+      "units": 38600,
+      "revenue": 1352755.7462,
+      "grossProfit": -147448.02380000008,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2025-10",
-      "units": 40718,
-      "revenue": 1433500.5681999999,
-      "grossProfit": -107851.58180000016,
+      "units": 40806,
+      "revenue": 1436650.7282,
+      "grossProfit": -106234.51179999998,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2025-11",
-      "units": 46195,
-      "revenue": 1644317.209,
-      "grossProfit": -11499.490999999922,
+      "units": 45750,
+      "revenue": 1627833.5289999999,
+      "grossProfit": -18631.16100000008,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2025-12",
-      "units": 49846,
-      "revenue": 1768014.531,
-      "grossProfit": 30016.66100000008,
+      "units": 49948,
+      "revenue": 1772712.731,
+      "grossProfit": 32362.430999999866,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2026-01",
-      "units": 50279,
-      "revenue": 1789147.761,
-      "grossProfit": 49376.12099999981,
+      "units": 49992,
+      "revenue": 1778958.061,
+      "grossProfit": 45169.25099999993,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2026-02",
-      "units": 47905,
-      "revenue": 1692827.368,
-      "grossProfit": 612.2880000000587,
+      "units": 47925,
+      "revenue": 1691794.4679999999,
+      "grossProfit": -659.9520000001648,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2026-03",
-      "units": 67261,
-      "revenue": 2612601.192,
-      "grossProfit": 295072.4519999998,
+      "units": 67127,
+      "revenue": 2604208.192,
+      "grossProfit": 300396.9119999998,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2026-04",
-      "units": 77613,
-      "revenue": 2926898.318,
-      "grossProfit": 473238.55799999996,
+      "units": 77284,
+      "revenue": 2915760.478,
+      "grossProfit": 468769.63800000004,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2026-05",
-      "units": 67573,
-      "revenue": 2535718.34,
-      "grossProfit": 317203.98999999976,
+      "units": 67450,
+      "revenue": 2530210.6999999997,
+      "grossProfit": 314209.9099999997,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2026-06",
-      "units": 45352,
-      "revenue": 1677755.4305999998,
-      "grossProfit": -118286.5094000001,
+      "units": 46297,
+      "revenue": 1714766.5306,
+      "grossProfit": -105714.48940000008,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2026-07",
-      "units": 43373,
-      "revenue": 1600164.0636,
-      "grossProfit": -156133.39639999997,
+      "units": 43496,
+      "revenue": 1604564.5036,
+      "grossProfit": -155103.0464000001,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
     },
     {
       "month": "2026-08",
-      "units": 43975,
-      "revenue": 1617104.5167999999,
-      "grossProfit": -165767.5532000002,
+      "units": 43963,
+      "revenue": 1617346.2767999999,
+      "grossProfit": -165888.0432000002,
       "budgetRevenue": 2700000,
       "budgetProfit": 700000
+    },
+    {
+      "month": "2026-09",
+      "units": 1294,
+      "revenue": 48198.18,
+      "grossProfit": -654695.25,
+      "budgetRevenue": 0,
+      "budgetProfit": 0
     }
   ],
   "rateRows": [
@@ -159,7 +167,7 @@
       "name": "Standard",
       "units": 551556,
       "gross": 28292724.0,
-      "margin": 0.3882961079885897,
+      "margin": 0.38836716920939457,
       "avgUnitsPerOrder": 4.865869150963371
     },
     {
@@ -167,7 +175,7 @@
       "name": "Bundle Deal",
       "units": 14596,
       "gross": 658726.2,
-      "margin": 0.24647064879212496,
+      "margin": 0.24639698323795758,
       "avgUnitsPerOrder": 6.182126217704362
     },
     {
@@ -183,7 +191,7 @@
       "name": "Seasonal Push",
       "units": 19918,
       "gross": 890146.4,
-      "margin": 0.28175774748989557,
+      "margin": 0.2793916747852981,
       "avgUnitsPerOrder": 4.702077431539188
     }
   ],
@@ -192,57 +200,57 @@
       "kitchen": "Pattaya_Central",
       "units": 203016,
       "net": 7438060.0583999995,
-      "profit": 632870.7183999997,
-      "margin": 0.08508545419518115
+      "profit": 632918.4283999996,
+      "margin": 0.08509186850208718
     },
     {
       "kitchen": "Pattaya_Beach",
       "units": 171903,
       "net": 6287785.7612,
-      "profit": 553472.8911999995,
-      "margin": 0.08802349701787093
+      "profit": 553356.7011999995,
+      "margin": 0.08800501833484758
     },
     {
       "kitchen": "BKK_Sukhumvit",
       "units": 153269,
       "net": 5615003.7042,
-      "profit": -288827.5258000004,
-      "margin": -0.05143852809642113
+      "profit": -288918.46580000035,
+      "margin": -0.051454723989565763
     },
     {
       "kitchen": "BKK_Ladprao",
       "units": 91744,
       "net": 3354910.6006,
-      "profit": -420879.6594,
-      "margin": -0.1254518255493094
+      "profit": -420822.9994000001,
+      "margin": -0.12543493687275575
     }
   ],
   "forecast": [
     {
       "month": "Forecast +1",
-      "units": 44233.333333333336,
-      "revenue": 1631674.6703333333,
+      "units": 29584.333333333332,
+      "revenue": 1090036.3201333333,
       "waste": 3054.4166666666665,
-      "profit": 39719.70203333327
+      "profit": -16122.194633333449
     },
     {
       "month": "Forecast +2",
-      "units": 44233.333333333336,
-      "revenue": 1631674.6703333333,
+      "units": 29584.333333333332,
+      "revenue": 1090036.3201333333,
       "waste": 3054.4166666666665,
-      "profit": 39719.70203333327
+      "profit": -16122.194633333449
     },
     {
       "month": "Forecast +3",
-      "units": 44233.333333333336,
-      "revenue": 1631674.6703333333,
+      "units": 29584.333333333332,
+      "revenue": 1090036.3201333333,
       "waste": 3054.4166666666665,
-      "profit": 39719.70203333327
+      "profit": -16122.194633333449
     }
   ],
   "assumptions": {
     "totalNet": 22695760.1244,
-    "totalProfit": 476636.4243999992,
+    "totalProfit": -193466.3356000014,
     "totalUnits": 619932,
     "wasteCost": 855848.43
   }
