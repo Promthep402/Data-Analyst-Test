@@ -1,0 +1,249 @@
+{
+  "quality": {
+    "total": 124397,
+    "mapped": 124023,
+    "unmapped": 374,
+    "nulls": 0,
+    "revenueMismatches": 0,
+    "unmappedUnits": 768,
+    "duplicateRows": 372
+  },
+  "skuRows": [
+    {
+      "sku": "Watermelon",
+      "sold": 245692.0,
+      "gross": 10843934.399999982,
+      "avgPrice": 44.13629422203402,
+      "contrib": 3283884.748999978,
+      "margin": 0.4167323379742482,
+      "share": 0.3963208868069401
+    },
+    {
+      "sku": "Pineapple",
+      "sold": 162689.0,
+      "gross": 7841165.710000096,
+      "avgPrice": 48.197270313297736,
+      "contrib": 2381330.9672000124,
+      "margin": 0.4178785495968065,
+      "share": 0.26243039559177456
+    },
+    {
+      "sku": "Guava",
+      "sold": 101815.0,
+      "gross": 4898247.7600000575,
+      "avgPrice": 48.10929391543542,
+      "contrib": 1437261.0153999974,
+      "margin": 0.4041837272655546,
+      "share": 0.1642357548892459
+    },
+    {
+      "sku": "PassionFruit",
+      "sold": 81616.0,
+      "gross": 5208893.300000028,
+      "avgPrice": 63.82196260537184,
+      "contrib": 1137940.1280000112,
+      "margin": 0.3009578351101276,
+      "share": 0.13165314905505765
+    },
+    {
+      "sku": "MixedBerryPremium",
+      "sold": 28120.0,
+      "gross": 2445619.4299999834,
+      "avgPrice": 86.97081899004209,
+      "contrib": 276219.5648000008,
+      "margin": 0.15517624725712537,
+      "share": 0.04535981365698173
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2025-09",
+      "units": 39842,
+      "revenue": 1397710.8262,
+      "grossProfit": -129345.11379999993,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2025-10",
+      "units": 40718,
+      "revenue": 1433500.5681999999,
+      "grossProfit": -107851.58180000016,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2025-11",
+      "units": 46195,
+      "revenue": 1644317.209,
+      "grossProfit": -11499.490999999922,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2025-12",
+      "units": 49846,
+      "revenue": 1768014.531,
+      "grossProfit": 30016.66100000008,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2026-01",
+      "units": 50279,
+      "revenue": 1789147.761,
+      "grossProfit": 49376.12099999981,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2026-02",
+      "units": 47905,
+      "revenue": 1692827.368,
+      "grossProfit": 612.2880000000587,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2026-03",
+      "units": 67261,
+      "revenue": 2612601.192,
+      "grossProfit": 295072.4519999998,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2026-04",
+      "units": 77613,
+      "revenue": 2926898.318,
+      "grossProfit": 473238.55799999996,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2026-05",
+      "units": 67573,
+      "revenue": 2535718.34,
+      "grossProfit": 317203.98999999976,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2026-06",
+      "units": 45352,
+      "revenue": 1677755.4305999998,
+      "grossProfit": -118286.5094000001,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2026-07",
+      "units": 43373,
+      "revenue": 1600164.0636,
+      "grossProfit": -156133.39639999997,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    },
+    {
+      "month": "2026-08",
+      "units": 43975,
+      "revenue": 1617104.5167999999,
+      "grossProfit": -165767.5532000002,
+      "budgetRevenue": 2700000,
+      "budgetProfit": 700000
+    }
+  ],
+  "rateRows": [
+    {
+      "rateCode": "RC000",
+      "name": "Standard",
+      "units": 551556,
+      "gross": 28292724.0,
+      "margin": 0.3882961079885897,
+      "avgUnitsPerOrder": 4.865869150963371
+    },
+    {
+      "rateCode": "RC101",
+      "name": "Bundle Deal",
+      "units": 14596,
+      "gross": 658726.2,
+      "margin": 0.24647064879212496,
+      "avgUnitsPerOrder": 6.182126217704362
+    },
+    {
+      "rateCode": "RC102",
+      "name": "Double Day New User",
+      "units": 33862,
+      "gross": 1396264.0,
+      "margin": 0.23062772041858237,
+      "avgUnitsPerOrder": 8.31173294059892
+    },
+    {
+      "rateCode": "RC103",
+      "name": "Seasonal Push",
+      "units": 19918,
+      "gross": 890146.4,
+      "margin": 0.28175774748989557,
+      "avgUnitsPerOrder": 4.702077431539188
+    }
+  ],
+  "kitchenRows": [
+    {
+      "kitchen": "Pattaya_Central",
+      "units": 203016,
+      "net": 7438060.0583999995,
+      "profit": 632870.7183999997,
+      "margin": 0.08508545419518115
+    },
+    {
+      "kitchen": "Pattaya_Beach",
+      "units": 171903,
+      "net": 6287785.7612,
+      "profit": 553472.8911999995,
+      "margin": 0.08802349701787093
+    },
+    {
+      "kitchen": "BKK_Sukhumvit",
+      "units": 153269,
+      "net": 5615003.7042,
+      "profit": -288827.5258000004,
+      "margin": -0.05143852809642113
+    },
+    {
+      "kitchen": "BKK_Ladprao",
+      "units": 91744,
+      "net": 3354910.6006,
+      "profit": -420879.6594,
+      "margin": -0.1254518255493094
+    }
+  ],
+  "forecast": [
+    {
+      "month": "Forecast +1",
+      "units": 44233.333333333336,
+      "revenue": 1631674.6703333333,
+      "waste": 3054.4166666666665,
+      "profit": 39719.70203333327
+    },
+    {
+      "month": "Forecast +2",
+      "units": 44233.333333333336,
+      "revenue": 1631674.6703333333,
+      "waste": 3054.4166666666665,
+      "profit": 39719.70203333327
+    },
+    {
+      "month": "Forecast +3",
+      "units": 44233.333333333336,
+      "revenue": 1631674.6703333333,
+      "waste": 3054.4166666666665,
+      "profit": 39719.70203333327
+    }
+  ],
+  "assumptions": {
+    "totalNet": 22695760.1244,
+    "totalProfit": 476636.4243999992,
+    "totalUnits": 619932,
+    "wasteCost": 855848.43
+  }
+}
